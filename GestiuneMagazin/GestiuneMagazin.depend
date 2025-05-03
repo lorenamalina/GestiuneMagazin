@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746302623 source:c:\users\lorena\onedrive\desktop\p2\gestiunemagazin\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
